@@ -24,5 +24,3 @@ class Solution {
     }
 }
 
-//Time: O(m + n) -> m and n are size of lnked lists
-//Space: O(1)
